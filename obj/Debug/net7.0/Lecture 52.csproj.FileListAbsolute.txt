@@ -1,0 +1,15 @@
+D:\6.UdemyPortfolio\Lecture 52\bin\Debug\net7.0\Lecture 52.exe
+D:\6.UdemyPortfolio\Lecture 52\bin\Debug\net7.0\Lecture 52.deps.json
+D:\6.UdemyPortfolio\Lecture 52\bin\Debug\net7.0\Lecture 52.runtimeconfig.json
+D:\6.UdemyPortfolio\Lecture 52\bin\Debug\net7.0\Lecture 52.dll
+D:\6.UdemyPortfolio\Lecture 52\bin\Debug\net7.0\Lecture 52.pdb
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\Lecture 52.csproj.AssemblyReference.cache
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\Lecture 52.GeneratedMSBuildEditorConfig.editorconfig
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\Lecture 52.AssemblyInfoInputs.cache
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\Lecture 52.AssemblyInfo.cs
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\Lecture 52.csproj.CoreCompileInputs.cache
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\Lecture 52.dll
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\refint\Lecture 52.dll
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\Lecture 52.pdb
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\Lecture 52.genruntimeconfig.cache
+D:\6.UdemyPortfolio\Lecture 52\obj\Debug\net7.0\ref\Lecture 52.dll
